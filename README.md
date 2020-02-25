@@ -6,7 +6,7 @@
 디자인 패턴을 훑어보고 자료로 남기기 위한 레포지터리를 만드려 한다.
 
 ## 생성 패턴
-- 싱글턴 (Singleton)
+- [싱글턴 (Singleton)](docs/singleton.md)
 - 빌더 (Builder)
 - 팩토리 메서드 (Factory Method)
 - 프로토타입 (Prototype)
