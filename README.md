@@ -7,8 +7,8 @@
 
 ## 생성 패턴
 - [싱글턴 (Singleton)](docs/singleton.md)
-- 빌더 (Builder)
 - 팩토리 메서드 (Factory Method)
+- [빌더 (Builder)](docs/builder.md)
 - 프로토타입 (Prototype)
 - 추상 팩토리 (Abstract Factory)
 
