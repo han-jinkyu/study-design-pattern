@@ -9,10 +9,10 @@
     - 객체의 각 부분을 만들기 위한 `추상메서드`를 선언
     - 마지막 결과를 얻기 위한 메서드를 정의
     
-2. ConcreteBuilder
+1. ConcreteBuilder
     - Builder 인터페이스를 구현
     
-3. Director
+1. Director
     - Builder 인터페이스를 사용하여 객체를 생성
     - 각 부분을 조립하는 메서드를 제공
 
