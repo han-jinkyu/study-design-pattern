@@ -22,7 +22,7 @@ public class OperationDirectorTests {
     }
 
     @Test
-    public void Should_BeAddOperator_When_UseAddOperationBuilder() {
+    public void should_BeAddOperator_When_UseAddOperationBuilder() {
         // given
         String given = String.format("%d + %d = %d", leftNumber, rightNumber, leftNumber + rightNumber);
 
@@ -36,7 +36,7 @@ public class OperationDirectorTests {
     }
 
     @Test
-    public void Should_BeSubtractOperator_When_UseSubtractOperationBuilder() {
+    public void should_BeSubtractOperator_When_UseSubtractOperationBuilder() {
         // given
         String given = String.format("%d - %d = %d", leftNumber, rightNumber, leftNumber - rightNumber);
 
@@ -50,7 +50,7 @@ public class OperationDirectorTests {
     }
 
     @Test
-    public void Should_BeMultiplyOperator_When_UseMultiplyOperationBuilder() {
+    public void should_BeMultiplyOperator_When_UseMultiplyOperationBuilder() {
         // given
         String given = String.format("%d * %d = %d", leftNumber, rightNumber, leftNumber * rightNumber);
 
@@ -64,7 +64,7 @@ public class OperationDirectorTests {
     }
 
     @Test
-    public void Should_BeDivideOperator_When_UseDivideOperationBuilder() {
+    public void should_BeDivideOperator_When_UseDivideOperationBuilder() {
         // given
         String given = String.format("%d / %d = %d", leftNumber, rightNumber, leftNumber / rightNumber);
 

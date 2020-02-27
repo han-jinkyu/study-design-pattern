@@ -17,7 +17,7 @@ public class OperationSingletonTests {
     }
 
     @Test
-    public void Should_Be120_When_AddOperation() throws Exception {
+    public void should_Be120_When_AddOperation() throws Exception {
         // given
         int given = leftNumber + rightNumber;
 
@@ -29,7 +29,7 @@ public class OperationSingletonTests {
     }
 
     @Test
-    public void Should_Be80_When_SubtractOperation() throws Exception {
+    public void should_Be80_When_SubtractOperation() throws Exception {
         // given
         int given = leftNumber - rightNumber;
 
@@ -41,7 +41,7 @@ public class OperationSingletonTests {
     }
 
     @Test
-    public void Should_Be2000_When_MultiplyOperation() throws Exception {
+    public void should_Be2000_When_MultiplyOperation() throws Exception {
         // given
         int given = leftNumber * rightNumber;
 
@@ -53,7 +53,7 @@ public class OperationSingletonTests {
     }
 
     @Test
-    public void Should_Be5_When_DivideOperation() throws Exception {
+    public void should_Be5_When_DivideOperation() throws Exception {
         // given
         int given = leftNumber / rightNumber;
 
@@ -65,7 +65,7 @@ public class OperationSingletonTests {
     }
 
     @Test
-    public void Should_Equals_When_GetInstance() {
+    public void should_Equals_When_GetInstance() {
         // when
         OperationSingleton given = OperationSingleton.getInstance();
 
