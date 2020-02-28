@@ -8,9 +8,9 @@
 ## 생성 패턴
 - [싱글턴 (Singleton)](docs/singleton.md)
 - [빌더 (Builder)](docs/builder.md)
-- 프로토타입 (Prototype)
 - [팩토리 메서드 (Factory Method)](docs/factory-method.md)
 - 추상 팩토리 (Abstract Factory)
+- [프로토타입 (Prototype)](docs/prototype.md)
 
 ## 구조 패턴
 - 어댑터 (Adapter)
