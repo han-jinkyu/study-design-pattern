@@ -13,7 +13,7 @@
 - [추상 팩토리 (Abstract Factory)](docs/abstract-factory.md)
 
 ## 구조 패턴
-- 어댑터 (Adapter)
+- [어댑터 (Adapter)](docs/adapter.md)
 - 브리지 (Bridge)
 - 컴포지트 (Composite)
 - 데코레이터 (Decorator)
