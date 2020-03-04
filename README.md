@@ -14,8 +14,8 @@
 
 ## 구조 패턴
 - [어댑터 (Adapter)](docs/adapter.md)
-- 브리지 (Bridge)
 - 컴포지트 (Composite)
+- [브리지 (Bridge)](docs/bridge.md)
 - 데코레이터 (Decorator)
 - 퍼사드 (Facade)
 - 플라이웨이트 (Flyweight)
