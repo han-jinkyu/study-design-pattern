@@ -16,9 +16,9 @@
 - [어댑터 (Adapter)](docs/adapter.md)
 - [브리지 (Bridge)](docs/bridge.md)
 - [컴포지트 (Composite)](docs/composite.md)
-- 퍼사드 (Facade)
 - [데코레이터 (Decorator)](docs/decorator.md)
 - 플라이웨이트 (Flyweight)
+- [퍼사드 (Facade)](docs/facade.md)
 - 프록시 (Proxy)
 
 ## 행위 패턴
