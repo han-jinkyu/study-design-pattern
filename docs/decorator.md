@@ -36,7 +36,7 @@
 - 자바 Component의 Border
 
 ## 참고
-- com.designpattern.study.composite
+- com.designpattern.study.decorator
 
 ---
 [HOME](../README.md)
