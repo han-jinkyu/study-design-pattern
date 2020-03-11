@@ -18,8 +18,8 @@
 - [컴포지트 (Composite)](docs/composite.md)
 - [데코레이터 (Decorator)](docs/decorator.md)
 - [퍼사드 (Facade)](docs/facade.md)
-- 프록시 (Proxy)
 - [플라이웨이트 (Flyweight)](docs/flyweight.md)
+- [프록시 (Proxy)](docs/proxy.md)
 
 ## 행위 패턴
 - 책임 연쇄 (Chain of Responsibility)
