@@ -22,8 +22,8 @@
 - [프록시 (Proxy)](docs/proxy.md)
 
 ## 행위 패턴
-- 책임 연쇄 (Chain of Responsibility)
 - 커맨드 (Command)
+- [책임 연쇄 (Chain of Responsibility)](docs/chain-of-responsibility.md)
 - 인터프리터 (Interpreter)
 - 이터레이터 (Iterator)
 - 미디에이터 (Mediator)
