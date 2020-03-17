@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class DoubleOperationFactoryTests {
+public class DoubleAbstractFactoryTests {
 
     private String leftNumber, rightNumber;
     private AbstractOperationProduct operationProduct;

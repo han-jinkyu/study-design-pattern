@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class OperationDirectorTests {
+public class BuilderTests {
 
     private OperationDirector director;
     private AbstractOperationBuilder builder;

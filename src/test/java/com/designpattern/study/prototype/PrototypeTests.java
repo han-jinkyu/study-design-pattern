@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class OperationBendingMachineTests {
+public class PrototypeTests {
 
     private OperatorBendingMachine operatorBendingMachine;
     private int leftNumber, rightNumber;

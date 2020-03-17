@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class AbstractOperationTests {
+public class FactoryMethodTests {
 
     private AbstractOperation operation;
     private int leftNumber, rightNumber;

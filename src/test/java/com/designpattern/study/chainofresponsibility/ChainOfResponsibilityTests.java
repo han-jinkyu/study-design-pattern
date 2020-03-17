@@ -10,7 +10,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class AbstractOperationHandlerTests {
+public class ChainOfResponsibilityTests {
 
     private int leftNumber, rightNumber;
 

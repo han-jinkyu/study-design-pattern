@@ -11,7 +11,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CalculatorTests {
+public class CompositeTests {
 
     private int leftNumber, rightNumber;
     private Calculator calculator;

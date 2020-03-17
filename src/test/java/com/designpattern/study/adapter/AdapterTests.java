@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class AbstractOperationTargetTests {
+public class AdapterTests {
 
     private int leftNumber, rightNumber;
 

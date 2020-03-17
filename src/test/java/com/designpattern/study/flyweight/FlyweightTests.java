@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class ExpressionFlyweightFactoryTests {
+public class FlyweightTests {
 
     private ExpressionFlyweightFactory factory;
     private int leftNumber, rightNumber;

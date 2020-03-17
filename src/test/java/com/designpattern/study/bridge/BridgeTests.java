@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class OperationAbstractionTests {
+public class BridgeTests {
 
     private int leftNumber, rightNumber;
     private OperationAbstraction operationAbstraction;
