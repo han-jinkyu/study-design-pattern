@@ -75,7 +75,7 @@ public class CalcTokenizer {
     }
 
     private boolean isDelimiter(char ch) {
-        return "()".indexOf(ch) != -1;
+        return "(),".indexOf(ch) != -1;
     }
 
     public boolean hasNext() {
