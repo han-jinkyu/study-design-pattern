@@ -24,9 +24,9 @@
 ## 행위 패턴
 - [책임 연쇄 (Chain of Responsibility)](docs/chain-of-responsibility.md)
 - [커맨드 (Command)](docs/command.md)
-- 이터레이터 (Iterator)
 - [인터프리터 (Interpreter)](docs/interpreter.md)
 - 미디에이터 (Mediator)
+- [이터레이터 (Iterator)](docs/iterator.md)
 - 메멘토 (Memento)
 - 옵저버 (Observer)
 - 스테이트 (State)
